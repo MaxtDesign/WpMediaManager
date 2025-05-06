@@ -58,10 +58,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This plugin is licensed under the GPL v2 or later.
 
-## Author
-
-Created by Cody Hardman
-
 ## Support
 
 For support, please create an issue in the GitHub repository.
