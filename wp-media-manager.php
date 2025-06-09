@@ -3,7 +3,7 @@
  * Plugin Name: Delete Associated Media (with ACF and WooCommerce Support)
  * Description: Removes associated media from the media library when a post or page is deleted, including media in ACF Gallery fields and WooCommerce product images.
  * Version: 1.3
- * Author: MaxtDesign <Cody Hardman>
+ * Author: MaxtDesign
  * License: GPL v2 or later
  */
 
